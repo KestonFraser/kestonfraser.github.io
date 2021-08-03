@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AppointEx</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.4f1b60b39275da0edf64.css"></head>
+<body>
+  <app-root></app-root>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+<script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.7037a817a5bb670ed2ca.js"></script><script type="text/javascript" src="scripts.47e0283e021851c51c1d.js"></script><script type="text/javascript" src="main.ec4b519fa52a31c9e9b5.js"></script></body>
+</html>
